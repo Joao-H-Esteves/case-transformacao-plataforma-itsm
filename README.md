@@ -191,13 +191,13 @@ A gestão deixou de depender de um único cronograma de implantação e passou a
 
 | Capacidade | Aplicação |
 | :--- | :--- |
-| Request & Incident Management | Tratamento de solicitações e incidentes internos |
-| Change Management | Fluxo estruturado de mudanças e aprovações |
-| Problem Management | Registro e acompanhamento de causas e recorrências |
-| Availability | Registro e tratamento de indisponibilidades |
+| Gestão de Solicitações e Incidentes | Tratamento de solicitações e incidentes internos |
+| Gestão de Mudanças | Fluxo estruturado de mudanças e aprovações |
+| Gestão de Problemas | Registro e acompanhamento de causas e recorrências |
+| Gestão de Disponibilidade | Registro e tratamento de indisponibilidades |
 | CMDB | Estrutura de configuração e relacionamentos entre ICs |
-| Knowledge Management | Base de conhecimento e apoio à operação |
-| Identity & Access Integration | Sincronização controlada de dados de pessoas e acessos |
+| Gestão do Conhecimento | Base de conhecimento e apoio à operação |
+| Integração de Identidades e Acessos | Sincronização controlada de dados de pessoas e acessos |
 | Dashboards | Indicadores para serviços, mudanças, configuração e gestão |
 
 ---
