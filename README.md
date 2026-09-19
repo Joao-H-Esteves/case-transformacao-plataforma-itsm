@@ -540,15 +540,20 @@ Gerenciamento de Projetos de Tecnologia | PMO | Transformação Digital
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="135" valign="middle" align="center">
-      <img src="assets/octocat-sabio-itsm.png" width="115" alt="Octocat sábio inspirado em um mestre espacial" />
+    <td colspan="2" align="center">
+      <strong>Geek Note</strong>
     </td>
-    <td valign="middle">
-      <strong>Geek Note</strong><br><br>
+  </tr>
+  <tr>
+    <td width="140" valign="middle" align="center">
+      <img src="assets/octocat-sabio-itsm.png" width="120" alt="Octocat sábio inspirado em um mestre espacial" />
+    </td>
+    <td valign="middle" align="center">
       <strong>Muitos legados, as aquisições trouxeram.<br>
-      Unificá-los sem perder a continuidade, nosso desafio foi.</strong>
+      Unificá-los sem perder a continuidade,<br>
+      nosso desafio foi.</strong>
     </td>
   </tr>
 </table>
