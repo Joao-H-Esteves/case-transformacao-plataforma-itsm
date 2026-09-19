@@ -543,7 +543,7 @@ Gerenciamento de Projetos de Tecnologia | PMO | Transformação Digital
 <table>
   <tr>
     <td width="135" valign="middle" align="center">
-      <img src="assets/geek-note-sage-itsm.svg" width="115" alt="Mascote geek — mestre sábio espacial" />
+      <img src="assets/octocat-sabio-itsm.png" width="115" alt="Octocat sábio inspirado em um mestre espacial" />
     </td>
     <td valign="middle">
       <strong>Geek Note</strong><br><br>
