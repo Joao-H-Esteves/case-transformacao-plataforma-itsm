@@ -537,3 +537,18 @@ O objetivo é demonstrar como a iniciativa foi:
 Gerenciamento de Projetos de Tecnologia | PMO | Transformação Digital
 
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="135" valign="middle" align="center">
+      <img src="assets/geek-note-sage-itsm.svg" width="115" alt="Mascote geek — mestre sábio espacial" />
+    </td>
+    <td valign="middle">
+      <strong>Geek Note</strong><br><br>
+      <strong>Muitos legados, as aquisições trouxeram.<br>
+      Unificá-los sem perder a continuidade, nosso desafio foi.</strong>
+    </td>
+  </tr>
+</table>
