@@ -548,7 +548,7 @@ Gerenciamento de Projetos de Tecnologia | PMO | Transformação Digital
   </tr>
   <tr>
     <td width="140" valign="middle" align="center">
-      <img src="assets/octocat-sabio-itsm.png" width="120" alt="Octocat sábio inspirado em um mestre espacial" />
+      <img src="assets/octocat-sabio-itsm-v2.png" width="120" alt="Octocat sábio inspirado em um mestre espacial" />
     </td>
     <td valign="middle" align="center">
       <strong>Muitos legados, as aquisições trouxeram.<br>
