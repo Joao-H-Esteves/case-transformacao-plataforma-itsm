@@ -25,8 +25,9 @@
 
 | Dimensão | Síntese |
 | :--- | :--- |
-| Cenário inicial | Múltiplas ferramentas de gestão de serviços, processos heterogêneos e forte dependência de plataformas legadas |
-| Estratégia | Consolidação da gestão de serviços em uma plataforma corporativa com uso para contextos externos e internos |
+| Cenário inicial | Crescimento orgânico e aquisições trouxeram empresas com plataformas de ITSM, processos e legados distintos |
+| Origem do programa | Integração pós-aquisição dentro de um contexto de M&A, com necessidade de consolidar o ecossistema de gestão de serviços |
+| Estratégia | Unificação progressiva da gestão de serviços em uma plataforma corporativa com uso para contextos externos e internos |
 | Modelo operacional | ITSM + evolução para Enterprise Service Management |
 | Fundamento de processos | ITIL v4 |
 | Entrega | Implantação por frentes e releases, seguida de evolução contínua |
@@ -38,28 +39,36 @@
 
 ## Contexto e Desafio
 
-O programa nasceu em um ambiente que havia acumulado **diferentes soluções de gerenciamento de serviços**, com níveis distintos de maturidade, integrações, fluxos e governança.
+O programa nasceu diretamente de um movimento de **crescimento orgânico e aquisições de empresas**. Dentro desse contexto de **M&A (Mergers & Acquisitions)**, a organização passou a incorporar operações que traziam consigo **plataformas de ITSM, processos, integrações, catálogos, bases de configuração e modelos de atendimento próprios**.
 
-O crescimento da operação aumentava a dificuldade de manter esse cenário. Os principais desafios eram:
+Esse tipo de cenário é tratado, na prática, como uma **integração pós-aquisição**: após a transação societária, é necessário integrar não apenas estruturas organizacionais, mas também processos, dados e tecnologias herdadas das empresas adquiridas.
 
-- coexistência de plataformas legadas;
-- processos com regras e experiências diferentes;
-- baixa padronização entre serviços internos e externos;
-- dependências de integrações com sistemas corporativos;
-- necessidade de rastreabilidade de chamados e ativos;
-- dificuldade de expansão sem aumento proporcional de complexidade;
-- risco de perda de contexto durante migrações e desligamento das ferramentas anteriores;
-- necessidade de transformar a implantação inicial em uma **esteira contínua de evolução**.
+Como consequência, o ambiente passou a conviver com **múltiplos ITSMs legados e diferentes formas de operar o mesmo tipo de serviço**. O desafio deixou de ser simplesmente substituir uma ferramenta. Era necessário consolidar um ecossistema fragmentado sem comprometer a continuidade operacional.
 
-A iniciativa passou, portanto, a ser tratada não apenas como troca de ferramenta, mas como uma **transformação de gestão de serviços**.
+Os principais desafios eram:
+
+- coexistência de plataformas de ITSM herdadas de empresas distintas;
+- processos, catálogos, SLAs e regras operacionais diferentes;
+- múltiplas integrações e fontes de dados;
+- níveis distintos de maturidade e governança;
+- necessidade de preservar continuidade e histórico durante as migrações;
+- necessidade de padronizar serviços internos e externos;
+- dependências de sistemas corporativos e fornecedores;
+- rastreabilidade de chamados, ativos e itens de configuração;
+- necessidade de desligar gradualmente soluções legadas sem perda operacional;
+- transformação da implantação inicial em uma **esteira contínua de evolução**.
+
+A iniciativa passou, portanto, a representar uma frente tecnológica de **integração pós-aquisição**, usando a gestão de serviços como mecanismo de padronização operacional e tecnológica.
 
 ```mermaid
 flowchart LR
-    A[Múltiplos ITSMs legados] --> B[Padronização de processos]
-    B --> C[Plataforma de serviços externos]
-    C --> D[Migração da plataforma interna]
-    D --> E[Modelo por releases]
-    E --> F[Backlog contínuo de evolução]
+    A[Crescimento + aquisições] --> B[Empresas com ITSMs próprios]
+    B --> C[Ecossistema fragmentado]
+    C --> D[Padronização de processos e dados]
+    D --> E[Consolidação das plataformas]
+    E --> F[Migração dos legados]
+    F --> G[Modelo corporativo de serviços]
+    G --> H[Evolução contínua por releases]
 ```
 
 ---
